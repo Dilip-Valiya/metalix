@@ -38,8 +38,8 @@ export default function RootLayout({
                   src="/logo.png"
                   alt="Metalix Enterprise Logo"
                   className="w-50 h-auto"
-                  width={500}
-                  height={500}
+                  width={200}
+                  height={42}
                 />
               </Link>
             </div>
